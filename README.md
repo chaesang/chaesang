@@ -6,7 +6,7 @@
 
 ---
 
-30 years across embedded systems, consumer services, and cloud — including 13 years at Google. I build engineering organizations from zero, ship products at planet scale, and care about leaving teams better than I found them. Based in Palo Alto, working across the US and Korea.
+30 years across embedded systems, consumer services, and cloud — including 13 years at Google. I build engineering organizations from zero, ship products at planet scale, and care about growing the people I work with. Based in Palo Alto, working across the US and Korea.
 
 ## 🏗️ Experience Highlights
 
