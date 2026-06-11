@@ -1,56 +1,39 @@
-🇰🇷 [한국어 (Korean)](README.ko.md)
+### Hi, I'm Chaesang
 
-## Hi, I'm Chaesang Jung 👋
+Thirty years in, I've built software and the teams behind it — App Indexing
+from zero to a 50-person org at Google, engineering leadership at Banksalad
+and MegazoneCloud, and three years teaching AI at KAIST. What holds my
+attention now is the next thing worth building, and the people worth
+building it with.
 
-**Engineering Leader · 0→1 Org Builder · Ex-Google (13y) · Fractional CTO / Advisor**
+I work between Silicon Valley and Korea, and I've spent most of my career
+on the seam between the two — shipping products and growing the engineers
+who ship them.
 
----
+#### Focus
 
-30 years across embedded systems, consumer services around search, cloud and AI — including 13 years at Google. I build engineering organizations from zero, ship products at planet scale, and care about growing the people I work with. Based in Palo Alto, working across the US and Korea.
+- **Engineering org building** — from first hire to a 50-person org, and the structure in between
+- **AI / LLM productization** — turning models into products people actually use
+- **Cloud cost & scale** — 75% cloud cost reduction at Banksalad, multi-cloud advisory at MegazoneCloud
+- **Search & recommendation systems** — Google Search, and three years teaching the subject at KAIST
+- **Korea ↔ US bridge** — building and leading teams on both sides
 
-## 🏗️ Experience Highlights
+#### Where I write
 
-**Google (2007–2020) · 13 years**
-- Initiated **App Indexing** from a single demo → grew to a 50-person org. Featured in earnings calls, Android K release, Google I/O 2015. ~90% of team members promoted during the project.
-- **Lens** — Staff SWE on visual search & on-device OCR
-- **Playstore Korea / Japan** — TLM for the first regional consumer product
-- **Nest Store, Search Korea** — multiple IC ↔ management cycles
+I write mostly in Korean, and a little in English.
 
-**Banksalad (2022–2023) · VP of Engineering**
-- Led 40+ engineers
-- **75% cloud cost reduction** in six months
-- **20× Mydata service performance** improvement
+- **[Brunch](https://brunch.co.kr/@chaesang)** (Korean)
+  - **기억 (Memory)** — a career retrospective, looking back to see forward
+  - **클라우드 솔루션 리포트** — cloud industry deep dives, published with NIA
+- **[Medium](https://medium.com/@chaesangjung)** (English) — essays on engineering and the craft of leading
+- **Online courses** — [Inflearn](https://www.inflearn.com/users/1292051/@chaesang) · FastCampus · Class101
 
-**MegazoneCloud (2025–2026) · Distinguished SWE**
-- CEO Office technical advisory · SDLC guidelines
-- Korea's largest cloud transformation partner
+#### Open to
 
-**KAIST (2023–2026) · Adjunct Professor**
-- Teaching AI & Recommendation Systems · 3 consecutive years · ~80 students per semester
+**Engineering leadership** — CTO · VP Engineering · Head of AI · Director · Engineering Manager
 
-**Co-founder · exemplar.ai** — RAG-based educational AI
+#### Reach me
 
-## 💼 Open to
-
-| Path | Roles |
-|------|-------|
-| **Senior FTE** | VP Engineering · CTO · Head of AI |
-| **Fractional / Advisory** | Fractional CTO · Technical Advisor |
-
-## ✍️ Writing & Teaching
-
-📝 **[Brunch](https://brunch.co.kr/@chaesang)** — Korean essays on engineering, cloud, AI
-- **Memory** — career retrospective series
-- **Cloud Solutions Report** — NIA-published industry deep dives (quarterly)
-
-🎓 **Online courses** — Inflearn · FastCampus · Class101
-
-## 🎯 Focus
-
-`Engineering Org Building` · `AI/LLM Productization` · `Cloud Cost & Scale` · `Search & Recommendation Systems` · `Korea ↔ US Engineering Bridge`
-
-## 📬 Reach me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/chaesang)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chaesang@gmail.com)
-[![Brunch](https://img.shields.io/badge/Brunch-00C73C?logoColor=white)](https://brunch.co.kr/@chaesang)
+- [LinkedIn](https://linkedin.com/in/chaesang)
+- [ieumtech.net](https://ieumtech.net)
+- chaesang@gmail.com
