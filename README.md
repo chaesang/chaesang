@@ -30,7 +30,7 @@ I write mostly in Korean, and a little in English.
 
 #### Open to
 
-**Engineering leadership** — CTO · VP Engineering · Head of AI · Director · Engineering Manager
+**Engineering leadership** — CTO · VP Engineering · Head of Engineering · Director · Engineering Manager
 
 #### Reach me
 
