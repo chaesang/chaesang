@@ -23,10 +23,7 @@ who ship them.
 I write mostly in Korean, and a little in English.
 
 - **[Brunch](https://brunch.co.kr/@chaesang)** (Korean)
-  - **기억 (Memory)** — a career retrospective, looking back to see forward
-  - **클라우드 솔루션 리포트** — cloud industry deep dives, published with NIA
 - **[Medium](https://medium.com/@chaesangjung)** (English) — essays on engineering and the craft of leading
-- **Online courses** — [Inflearn](https://www.inflearn.com/users/1292051/@chaesang) · FastCampus · Class101
 
 #### Open to
 
