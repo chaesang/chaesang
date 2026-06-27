@@ -10,6 +10,8 @@ I work between Silicon Valley and Korea, and I've spent most of my career
 on the seam between the two — shipping products and growing the engineers
 who ship them.
 
+**Now** — hands-on with LLMs and agents.
+
 #### Focus
 
 - **Engineering org building** — from first hire to a 50-person org, and the structure in between
@@ -23,11 +25,16 @@ who ship them.
 I write mostly in Korean, and a little in English.
 
 - **[Brunch](https://brunch.co.kr/@chaesang)** (Korean)
-- **[Medium](https://medium.com/@chaesangjung)** (English) — essays on engineering and the craft of leading
+  - **기억 (Memory)** — a career retrospective, looking back to see forward
+  - **클라우드 솔루션 리포트** — cloud industry deep dives, published with NIA
+- **[Medium](https://medium.com/@chaesangjung)** (English) — essays on the craft of engineering, and the computing history that shaped it
+- **Online courses** — [Inflearn](https://www.inflearn.com/users/1292051/@chaesang) · FastCampus · Class101
 
 #### Open to
 
-**Engineering leadership** — CTO · VP Engineering · Head of Engineering · Director · Engineering Manager
+**Engineering leadership** — CTO · VP Engineering · Head of Engineering.
+Drawn most to roles where I can build — hands-on with AI, on the US–Korea seam.
+Open to Director · Engineering Manager for the right team.
 
 #### Reach me
 
